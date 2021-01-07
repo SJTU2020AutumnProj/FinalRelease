@@ -9,7 +9,7 @@
 - 软件代码（源代码和可执行代码）
   - 源代码：[前端](https://github.com/SJTU2020AutumnProj/frontend)，[后端](https://github.com/SJTU2020AutumnProj/backend)
   - 已部署网页浏览器：[小箱交云作业](https://sjtu2020autumnproj.github.io/frontend/#/)
-- 单元测试的代码及其生成测试报告
+- 单元测试的代码及其生成测试报告 （测试覆盖率100%）
   - 测试代码：[单元测试代码](https://github.com/SJTU2020AutumnProj/backend/tree/Unit_Test/service)
   - 测试报告：[单元测试报告](./单元测试报告/)
 - 系统测试的测试用例和测试报告
